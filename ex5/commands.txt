@@ -1,0 +1,6 @@
+After running your script, you can open TensorBoard by running the command 
+tensorboard --logdir=logs/fit 
+in your terminal and then navigate to the "Graphs" tab to visualize the computational graph.
+
+dataset link:
+https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset

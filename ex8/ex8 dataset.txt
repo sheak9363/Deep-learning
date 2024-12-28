@@ -1,0 +1,9 @@
+cnn_audio
+
+https://www.kaggle.com/datasets/chrisfilo/urbansound8k?resource=download
+
+cnn_video
+
+https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition?select=val.csv
+
+https://www.kaggle.com/datasets/ziadfellahidrissi/ucf101-dataset
